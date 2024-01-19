@@ -1,0 +1,74 @@
+body {
+
+    margin: 0;
+}
+
+h1 {
+
+    font-size: 50px;
+}
+
+h3 {
+
+    font-size: 18px;
+}
+
+p {
+
+    font-size: 16px;
+}
+
+
+.first-section {
+
+    display: flex;
+}
+
+
+.first-area {
+
+    width: 50%;
+    margin-left: 100px;
+}
+
+.last-area {
+
+    width: 50%;
+    margin-right: 100px;
+}
+
+.last-area img {
+
+    width: 100%;
+}
+
+
+.full-baby {
+
+    display: flex;
+}
+
+.full-stack {
+
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    margin: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+
+
+}
+
+.baby-web {
+
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    margin: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+
+}
